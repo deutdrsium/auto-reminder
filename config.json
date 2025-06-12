@@ -1,0 +1,8 @@
+{
+    "focus_minutes": 90,
+    "break_minutes": 20,
+    "micro_break_seconds": 10,
+    "random_interval_min": 3,
+    "random_interval_max": 5,
+    "sound_file": "alert.mp3"
+}
